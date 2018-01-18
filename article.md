@@ -1,12 +1,12 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
+title: "Jak šel život Jiřího Drahoše a Miloše Zemana"
+perex: "Perex o tom, že máme časovou osu."
 authors: ["Michal Zlatkovský"]
 published: "18. ledna 2018"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: []
 libraries: [] #jquery
-options: "wide" #wide, noheader (+nopic)
+options: "noheader, nopic, wide" #wide, noheader (+nopic)
 ---
 
 

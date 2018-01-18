@@ -90,7 +90,7 @@ h1 {
   border-color: transparent transparent transparent rgba(0, 0, 255, 0.3);
 }
 
-time {
+li div time {
   display: block;
   font-size: 1.2rem;
   font-weight: bold;
