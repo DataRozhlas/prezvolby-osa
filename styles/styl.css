@@ -1,3 +1,152 @@
-/*
-CSS soubory ve složce /styles/ se do výsledného článku zakompilují automaticky
-*/
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ /* INTRO SECTION
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.intro {
+  background: #F45B69;
+  padding: 100px 0;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+
+/* TIMELINE
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.timeline ul {
+  padding: 50px 0;
+}
+
+.timeline ul li {
+  list-style-type: none;
+  position: relative;
+  width: 6px;
+  margin: 0 auto;
+  padding-top: 50px;
+  background: black;
+}
+
+.timeline ul li::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: inherit;
+}
+
+.timeline ul li div {
+  position: relative;
+  bottom: 0;
+  width: 400px;
+  padding: 15px;
+}
+
+.timeline ul li div::before {
+  content: '';
+  position: absolute;
+  bottom: 7px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
+
+.zeman div {
+  left: 30px;
+  background: rgba(255, 0, 0, 0.3);  
+}
+
+.zeman div::before {
+  left: -15px;
+  border-width: 8px 15px 8px 0;
+}
+
+
+.zeman div::before {
+  border-color: transparent rgba(255, 0, 0, 0.3) transparent transparent;
+}
+
+.drahos div {
+  left: -444px;
+  background: rgba(0, 0, 255, 0.3);
+}
+
+.drahos div::before {
+  right: -15px;
+  border-width: 8px 0 8px 15px;
+  border-color: transparent transparent transparent rgba(0, 0, 255, 0.3);
+}
+
+time {
+  display: block;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+
+/* EFFECTS
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.timeline ul .drahos::after {
+  background: #b3b3ff;
+}
+
+.timeline ul .zeman::after {
+  background: #ffb3b3;
+}
+
+.timeline ul div {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+/* GENERAL MEDIA QUERIES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@media screen and (max-width: 900px) {
+  .timeline ul li div {
+    width: 250px;
+  }
+  .drahos div {
+    left: -294px;
+    /*250+60-6*/
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .timeline ul li {
+    margin-left: 20px;
+  }
+  .timeline ul li div {
+    width: calc(100vw - 120px);
+  }
+  .drahos div {
+    left: 30px;
+  }
+  .drahos div::before {
+    left: -15px;
+    border-width: 8px 15px 8px 0;
+    border-color: transparent rgba(0, 0, 255, 0.3) transparent transparent;
+  }
+}

@@ -1,1 +1,19 @@
-// JS soubory ve složce /styles/ se do výsledného článku zakompilují automaticky
+(function() {
+
+  'use strict';
+
+  // define variables
+  var items = document.querySelectorAll(".timeline li");
+
+  function callbackFunc() {
+    for (var i = 0; i < items.length; i++) {
+        items[i].classList.add("in-view");
+    }
+  }
+
+  // listen for events
+  window.addEventListener("load", callbackFunc);
+  window.addEventListener("resize", callbackFunc);
+  window.addEventListener("scroll", callbackFunc);
+
+})();
