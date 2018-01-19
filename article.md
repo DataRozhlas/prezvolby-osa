@@ -25,7 +25,7 @@ options: "noheader, nopic, wide" #wide, noheader (+nopic)
     </li>
     <li class="drahos">
       <div>
-        <time>1949</time> V Českém Těšíně se narodil Jiří Drahoš.
+        <time>1949</time><img src="http://dev.datarozhlas.cz/prezvolby-osa/img/drahos01.jpg" style="width: 100%;"><br> V Českém Těšíně se narodil Jiří Drahoš. Na fotce má tři roky.
       </div>
     </li>
     <li class="zeman">
