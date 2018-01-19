@@ -1,20 +1,13 @@
-title: "Jak šel život Jiřího Drahoše a Miloše Zemana"
-perex: "Perex o tom, že máme časovou osu."
+title: "Jiří Drahoš versus Miloš Zeman. Srovnejte životní dráhu prezidentských kandidátů"
+perex: "Zatímco se Jiří Drahoš začíná v prvním ročníku Vysoké školy chemicko-technologické věnovat vědě, student Vysoké školy ekonomické Miloš Zeman vstupuje do KSČ. A když Zeman vystupuje na demonstracích Občanského fóra v listopadu 1989 a pouští se na politickou dráhu, Drahoš se propracovává na manažerské pozice v Akademii věd. Srovnejte si životopisy obou kandidátů v ose doplněné archivními fotografiemi."
 authors: ["Michal Zlatkovský"]
-published: "18. ledna 2018"
+published: "20. ledna 2018"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: []
 libraries: [] #jquery
 options: "noheader, nopic, wide" #wide, noheader (+nopic)
 ---
-
-
-<section class="intro">
-  <div class="container">
-    <h1>Zeman vs. Drahoš</h1>
-  </div>
-</section>
 
 <section class="timeline">
   <ul>
@@ -45,22 +38,22 @@ options: "noheader, nopic, wide" #wide, noheader (+nopic)
     </li>
     <li class="drahos">
       <div>
-        <time>1956</time> In mattis elit vitae odio posuere, nec maximus massa varius. Suspendisse varius volutpat mattis. Vestibulum id magna est.
+        <time>1963</time>Jiří Drahoš začíná navštěvovat střední školu v Jablunkově.
       </div>
     </li>
     <li class="zeman">
       <div>
-        <time>1963</time><img src="http://dev.datarozhlas.cz/prezvolby-osa/img/zeman03.jpg" style="width: 100%;"><br> Miloš Zeman maturuje. Kvůli referátu o T. G. Masarykovi nesměl pokračovat ve studiu na vysoké škole.
-      </div>
-    </li>
-    <li class="zeman">
-      <div>
-        <time>1968</time> <img src="ttp://dev.datarozhlas.cz/prezvolby-osa/img/zeman04.jpg" style="width: 100%;"><br> Miloš Zeman vstupuje do Komunistické strany Československa.
+        <time>1963</time><img src="http://dev.datarozhlas.cz/prezvolby-osa/img/zeman03.jpg" style="width: 100%;"><br> Miloš Zeman maturuje. Kvůli referátu o T. G. Masarykovi nesměl pokračovat ve studiu na vysoké škole. Nastupuje do účtárny závodu Tatra Kolín, díky jehož doporučení zahajuje studium až o dva roky později, na Národohospodářské fakultě VŠE v Praze.
       </div>
     </li>
     <li class="drahos">
       <div>
-        <time>1968</time> Vestibulum porttitor lorem sed pharetra dignissim. Nulla maximus, dui a tristique iaculis, quam dolor convallis enim, non dignissim ligula ipsum a turpis.
+        <time>1967</time><img src="http://dev.datarozhlas.cz/prezvolby-osa/img/drahos03.jpg" style="width: 100%;"><br>Jiří Drahoš maturuje a skládá přijímací zkoušky na Vysokou školu chemicko-technologickou (VŠCHT) v Praze, obor fyzikální chemie.
+      </div>
+    </li>
+    <li class="zeman">
+      <div>
+        <time>1968</time> <img src="http://dev.datarozhlas.cz/prezvolby-osa/img/zeman04.jpg" style="width: 100%;"><br> Miloš Zeman vstupuje do Komunistické strany Československa.
       </div>
     </li>
     <li class="zeman">
@@ -70,7 +63,7 @@ options: "noheader, nopic, wide" #wide, noheader (+nopic)
     </li>
     <li class="zeman">
       <div>
-        <time>1970</time> <img src="http://ihned.cz/download/2013/01_foto_volby_prezidenta/zeman05.jpg" style="width: 100%;"><br> Miloš Zeman je při stranických čistkách vyloučen z KSČ pro nesouhlas se sovětskou okupací. Dva roky strávil bez trvalého pracovního poměru, či pracoval pod cizím jménem.
+        <time>1970</time> <img src="http://dev.datarozhlas.cz/prezvolby-osa/img/zeman05.jpg" style="width: 100%;"><br> Miloš Zeman je při stranických čistkách vyloučen z KSČ pro nesouhlas se sovětskou okupací. Dva roky strávil bez trvalého pracovního poměru, či pracoval pod cizím jménem.
       </div>
     </li>
     <li class="zeman">
@@ -78,9 +71,19 @@ options: "noheader, nopic, wide" #wide, noheader (+nopic)
         <time>1971</time> Miloš Zeman se poprvé žení. Manželství skončilo po osmi letech rozvodem. Vzešel z něj syn David, nyní lékař.
       </div>
     </li>
+    <li class="drahos">
+      <div>
+        <time>1972</time> Jiří Drahoš rukuje na vojnu. O rok později pokračuje doktorským studiem a studijní stáží na VŠCHT.
+      </div>
+    </li>
+    <li class="drahos">
+      <div>
+        <time>1974</time><img src="http://dev.datarozhlas.cz/prezvolby-osa/img/drahos04.jpg" style="width: 100%;"><br>Jiří Drahoš se žení. S manželkou Evou je dodnes, mají dcery Radku a Lenku.
+      </div>
+    </li>
     <li class="zeman">
       <div>
-        <time>1990</time><img src="http://ihned.cz/download/2013/01_foto_volby_prezidenta/zeman06.jpg" style="width: 100%;"> Miloš Zeman se stává poslancem za Občanské fórum. Na počátku roku 1990 je zaměstnán v Prognostickém ústavu ČSAV. Koncem ledna 1990 je za Občanské fórum kooptován do Federálního shromáždění.
+        <time>1990</time><img src="http://dev.datarozhlas.cz/prezvolby-osa/img/zeman06.jpg" style="width: 100%;"> Miloš Zeman se po účasti na demonstracích v roce 1989 stává poslancem za Občanské fórum. Na počátku roku 1990 je zaměstnán v Prognostickém ústavu ČSAV. Koncem ledna 1990 je za Občanské fórum kooptován do Federálního shromáždění.
       </div>
     </li>
     <li class="zeman">
@@ -90,7 +93,12 @@ options: "noheader, nopic, wide" #wide, noheader (+nopic)
     </li>
     <li class="zeman">
       <div>
-        <time>1993</time><img src="http://ihned.cz/download/2013/01_foto_volby_prezidenta/zeman07.jpg" style="width: 100%;"> Miloš Zeman se podruhé žení. Z druhého sňatku, trvajícího doposud, vzešla dcera Kateřina.
+        <time>1993</time><img src="http://dev.datarozhlas.cz/prezvolby-osa/img/zeman07.jpg" style="width: 100%;"> Miloš Zeman se podruhé žení. Z druhého sňatku, trvajícího doposud, vzešla dcera Kateřina.
+      </div>
+    </li>
+    <li class="drahos">
+      <div>
+        <time>1994</time> Jiří Drahoš se stává docentem pro obor chemické inženýrství. Hlavním předmětem jeho odborného zájmu jsou vícefázové chemické reaktory. Od následujícího roku vede po osm let Ústav chemických procesů Akademie věd.
       </div>
     </li>
     <li class="zeman">
@@ -100,7 +108,12 @@ options: "noheader, nopic, wide" #wide, noheader (+nopic)
     </li>
     <li class="zeman">
       <div>
-        <time>1998</time><img src="http://ihned.cz/download/2013/01_foto_volby_prezidenta/zeman11.jpg" style="width: 100%;"> Sociální demokracie vyhrává volby a Miloš Zeman je jmenován předsedou vlády České republiky.
+        <time>1998</time><img src="http://dev.datarozhlas.cz/prezvolby-osa/img/zeman11.jpg" style="width: 100%;"> Sociální demokracie vyhrává volby a Miloš Zeman je jmenován předsedou vlády České republiky.
+      </div>
+    </li>
+    <li class="drahos">
+      <div>
+        <time>1999</time>Jiří Drahoš obhahuje jako chemický inženýr doktorát věd a získává tak titul DrSc.
       </div>
     </li>
     <li class="zeman">
@@ -113,14 +126,29 @@ options: "noheader, nopic, wide" #wide, noheader (+nopic)
         <time>2003</time>Miloše Zemana zrazuje vlastní strana. Na základě vítězství ve vnitrostranickém referendu kandiduje Miloš Zeman na funkci prezidenta. Vypadává však již v prvním kole. V tajné volbě poslanců a senátorů prohrál souboj s Václavem Klausem i se senátorkou Jaroslavou Moserovou. Překvapivě nízký počet hlasů dokazoval, že ho nevolili ani někteří zástupci ČSSD.
       </div>
     </li>
-    <li class="zeman">
+    <li class="drahos">
       <div>
-        <time>2005</time>Miloš Zeman vydává knihu s názvem "Jak jsem se mýlil v politice", která se počtem prodaných výtisků zařadila mezi bestsellery. Prodalo se kolem 150.000 výtisků, za něž utržil kolem tří milonů korun.
+        <time>2003</time>Jiří Drahoš je jmenován profesorem v oblasti chemického inženýrství.
       </div>
     </li>
     <li class="zeman">
       <div>
-        <time>2013</time><img src="https://media.novinky.cz/837/358376-original1-tjno2.jpg" style="width: 100%;">Miloš Zeman vítězí v první české přímé prezidentské volbě a stává se po Václavu Klausovi třetím českým prezidentem.
+        <time>2005</time>Miloš Zeman vydává knihu s názvem "Jak jsem se mýlil v politice", která se počtem prodaných výtisků zařadila mezi bestsellery. Prodalo se kolem 150 000 výtisků, za něž utržil kolem tří milonů korun.
+      </div>
+    </li>
+    <li class="drahos">
+      <div>
+        <time>2009</time><img src="http://dev.datarozhlas.cz/prezvolby-osa/img/drahos_av.jpg" style="width: 100%;"><br>Jiří Drahoš se stává předsedou Akademie věd ČR. Předtím působil jako její místopředseda. Instituci řídí dalších osm let.
+      </div>
+    </li>
+    <li class="drahos">
+      <div>
+        <time>2012</time>Jiřímu Drahošovi je udělena Medaile Za zásluhy o stát v oblasti vědy I. stupně. Je mimo jiné spoluautorem patentu na recyklaci PET lahví.
+      </div>
+    </li>
+    <li class="zeman">
+      <div>
+        <time>2013</time><img src="http://dev.datarozhlas.cz/prezvolby-osa/img/zeman12.jpg" style="width: 100%;"><br>Miloš Zeman vítězí v první české přímé prezidentské volbě a stává se po Václavu Klausovi třetím českým prezidentem.
       </div>
     </li>
   </ul>
